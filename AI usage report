@@ -1,0 +1,57 @@
+# AI Usage Report for ADmyBRAND Insights Dashboard
+
+## Overview
+
+This report summarizes the current and proposed usage of AI tools, services, and prompts within the ADmyBRAND Insights Dashboard project.
+
+## Current AI Tools and Services Used
+
+- **None**: The current project does not integrate any AI tools, APIs, or services.
+
+## Proposed AI Integration
+
+- Integration of AI tools such as the OpenAI API to generate automated insights, summaries, or forecasts based on business metrics.
+- AI-powered analytics could enhance the dashboard by providing anomaly detection, trend predictions, and personalized recommendations.
+- Natural language processing (NLP) could be used to enable conversational querying of dashboard data.
+
+## Data Sources
+
+- The dashboard currently uses simulated or static sample data for metrics, charts, and tables.
+- Data is generated locally within the React components or hardcoded as sample data.
+
+## Key Prompts
+
+- No AI prompts or interactions are present in the current codebase.
+
+## Tech Stack and Libraries
+
+- Next.js 14 with React 18 and TypeScript
+- Chakra UI for UI components and theming
+- Recharts for data visualization (Line, Bar, Pie charts)
+- Additional libraries:
+  - `date-fns` for date utilities
+  - `papaparse` for CSV parsing
+  - `framer-motion` for animations
+  - `react-icons` for iconography
+  - `file-saver` for file saving functionality
+
+## Deployment
+
+- The application is designed to be deployed on **Vercel**, which provides seamless deployment for Next.js applications.
+- Deployment steps typically include connecting the GitHub repository to Vercel and enabling automatic builds on push.
+
+## Version Control
+
+- The project is maintained in a GitHub repository (URL not specified).
+- GitHub is used for version control, collaboration, and issue tracking.
+
+## Potential AI Integration Suggestions
+
+- Integrate AI-powered analytics or forecasting for business metrics.
+- Use AI for anomaly detection in real-time data.
+- Implement AI-driven insights or recommendations based on user data.
+- Incorporate natural language processing for querying dashboard data.
+
+---
+
+*This report was generated based on the current state of the project source code and documentation, with proposed AI enhancements and deployment details.*
